@@ -7,7 +7,7 @@ The main idea of our project is to use fundamental as well as technical analysis
 ## Installation
 
 ```shell
-$ git clone https://github.com/ankitpriyarup/delta
+$ git clone https://github.com/Anukriti12/Delta-Stock-Watch.git
 $ virtualenv -p python3 venv
 $ source venv/bin/activate
 $ cd web_predict
